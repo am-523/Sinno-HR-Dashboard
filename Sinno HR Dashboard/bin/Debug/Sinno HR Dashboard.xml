@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sinno HR Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Sinno_HR_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources._3e124ea651c5aaf21810f9cae4d5c470_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.cash_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.categorize_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.checklist_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.combo_chart_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.courthouse_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.currency_exchange_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.d02b107386d0fe5d438204a1e216ffb6_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.data_quality_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.kissclipart_geometric_background_png_clipart_desktop_wallpaper_13dfa83eeffd99a6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.leadership_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.management_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.multicolored_abstract_wallpaper_png_clip_art">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.paycheque_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.project_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.Screenshot_17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.search_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.search_100px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.search_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.speed_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sinno_HR_Dashboard.My.Resources.Resources.user_account_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
